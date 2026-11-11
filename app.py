@@ -130,5 +130,3 @@ if mensagem_usuario:
 
 # FALA - sem criar rosto novo
     falar(resposta_ia)
-
-Analisa ele e fala o readme pra mim
